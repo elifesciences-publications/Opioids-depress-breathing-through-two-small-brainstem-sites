@@ -6,7 +6,7 @@ All code is written in MATLAB. In order to use code, download or clone repositor
 Missing Example Extracellular Data:  
 The 'In Vitro Extracellular Analysis Fig. 4' folder contains functions that reference example data files too large (exceeding 100 MB in size) to upload to the Github repository. Example data is therefore available upon request to the corresponding author (Kevin.Yackle@ucsf.edu) or first author (Iris.Bachmutsky@ucsf.edu).  
 
-Citations to Outside Code:
+Citations to Outside Code:  
 Functions in the 'From Outside Sources' folder contain various contributions from MathExchange and other places that are used within our custom scripts. License files have been kept when possible. These functions are cited as follows:  
 Bernal, Jose Maria Garcia-Valdecasas (2011). colorGradient, MATLAB Central File Exchange. Retrieved Feb, 2019.  
 Greene, Chad (2019). hex2rgb, MATLAB Central File Exchange. Retrieved June, 2019.  
