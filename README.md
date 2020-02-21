@@ -1,5 +1,5 @@
 # Opioids-depress-breathing-through-two-small-brainstem-sites-Bachmutskyetal.2020-
-These scripts execute analyses in 'Opioids depress breathing through two small brainstem sites' (Bachmutsky et al. 2020)  
+These scripts execute analyses in 'Opioids depress breathing through two small brainstem sites' (Bachmutsky et al. 2020, 10.7554/eLife.52694)  
 
 All code is written in MATLAB. In order to use code, download or clone repository and add to MATLAB path. Within-function paths referencing locations of example data will have to be updated in order to run functions appropriately.  
 
